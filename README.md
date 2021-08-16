@@ -1,4 +1,4 @@
-# HHFA_Net_Colorectal_Cancer
+# HHFA_Net
 Code and trained models for paper: to be updated
 
 Requirements: 
